@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 校园轻社交+资源置换平台
 
 这是一个基于 Vue3 + Vuetify3 和 Python + FastAPI 的校园社交和资源置换平台。
@@ -154,3 +155,7 @@ npm run dev
    - 设置适当的CORS策略
 
 2. 项目目前处于开发阶段，某些功能可能尚未完善
+=======
+# campus-social-frontend
+校园轻社交+资源置换平台 - Vue3 + Vuetify 前端代码
+>>>>>>> bb309e0fc47258ab8fdec53339f1dd26a0f9228c
